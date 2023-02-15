@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fstock-photo%2Fsoftware_development_banner.html&psig=AOvVaw2oNTDVfuYS96124Tij64C5&ust=1676518510960000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOiyy6PMlv0CFQAAAAAdAAAAABAO)](https://Chakri1905.io)
+![MasterHead](https://www.iscistech.in/image/software-development-banner-iscistech-business-solution-india.jpg)
 
 <h1 align="center">Hi 👋, I'm Chakri Tangudu</h1>
 <h3 align="center">I'm a web developer with expertise in web development, web scraping, data analytics and problem solving. Passionate about continuous learning and collaboration, I possess strong communication skills and a dedication to delivering high-quality solutions.</h3>
