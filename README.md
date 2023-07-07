@@ -1,14 +1,14 @@
 ![MasterHead](https://www.iscistech.in/image/software-development-banner-iscistech-business-solution-india.jpg)
 
 <h1 align="center">Hi 👋, I'm Chakri Tangudu</h1>
-<h3 align="center">I'm a web developer with expertise in web development, web scraping, data analytics and problem solving. Passionate about continuous learning and collaboration, I possess strong communication skills and a dedication to delivering high-quality solutions.</h3>
+<h3 align="center">I'm a web developer with expertise in web development, web scraping, data analytics, machine learning and problem solving. Passionate about continuous learning and collaboration, I possess strong communication skills and a dedication to delivering high-quality solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chakri1905&label=Profile%20views&color=0e75b6&style=flat" alt="chakri1905" /> </p>
 
 <p align="left"> <a href="https://twitter.com/chakri1905" target="blank"><img src="https://img.shields.io/twitter/follow/chakri1905?logo=twitter&style=for-the-badge" alt="chakri1905" /></a> </p>
 
-- 🔭 I’m currently working on **Farmer' Community**
+- 🔭 I’m currently working on **React Native** cross platform application
 
 - 🌱 I’m currently learning **Android development and machine learning**
 
